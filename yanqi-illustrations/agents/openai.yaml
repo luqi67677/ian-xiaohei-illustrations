@@ -1,0 +1,7 @@
+interface:
+  display_name: "焱七 IP 正文配图"
+  short_description: "用焱七 IP 生成纯白、清爽、有判断力的中文正文配图"
+  default_prompt: "请使用焱七人物基准图，为这段中文内容生成一张 16:9 正文配图。保持鲜亮莓粉长卷发、蓝眼白皮、森林绿吊带裙和修长长腿比例，使用纯白背景与细腻柔和的数字插画质感，让焱七亲自完成核心动作。"
+
+policy:
+  allow_implicit_invocation: true
